@@ -1,0 +1,13 @@
+{
+  "name": "DataPanel",
+  "version": "0.6.1",
+  "authors": [
+    "ToxicAven"
+  ],
+  "description": "Displays some hud information in a seperate panel.",
+  "url": "https://toxicaven.dev",
+  "min_api_version": "2.05.01",
+  "required_plugins": [],
+  "main_class": "DataPanelPlugin",
+  "hot_reload": true
+}
